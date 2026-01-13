@@ -1,0 +1,7 @@
+{
+  "name": "GenieArt - 3D Character Studio",
+  "description": "A high-fidelity 3D character interface featuring Neumorphic design and Gemini-powered image editing for creating and modifying character avatars.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
